@@ -1,0 +1,6 @@
+{
+  "Count": 50,
+  "Parallelism": 5,
+  "SavePath": "./outputs",
+  "ImageSource": "https://picsum.photos/300/300"
+}
